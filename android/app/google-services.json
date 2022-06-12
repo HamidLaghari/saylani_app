@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "781950158433",
+    "firebase_url": "https://smitproject-57199-default-rtdb.firebaseio.com",
+    "project_id": "smitproject-57199",
+    "storage_bucket": "smitproject-57199.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781950158433:android:1ed3771dd7f5b2adeacc20",
+        "android_client_info": {
+          "package_name": "com.hackthonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781950158433-m7pbu6hc2kf3vgv8e8cca0ojaba9n7m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs60BIYZQjxZquTUKlGjQrORdFj2efLz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781950158433-m7pbu6hc2kf3vgv8e8cca0ojaba9n7m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
